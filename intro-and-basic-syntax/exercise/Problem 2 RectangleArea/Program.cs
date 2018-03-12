@@ -1,4 +1,6 @@
-﻿using System;
+﻿//CONFIRMED from s-tdrv
+
+using System;
 
 namespace RectangleArea
 {
