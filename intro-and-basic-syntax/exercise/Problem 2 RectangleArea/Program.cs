@@ -15,7 +15,7 @@ namespace RectangleArea
 
             // We print to the console the result rounded up to two marks after the decimal point.
             Console.WriteLine("{0:f2}",rectangleArea);
-           
+      
         }
     }
 }
