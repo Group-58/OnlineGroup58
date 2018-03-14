@@ -1,5 +1,6 @@
-﻿namespace Problem3
-{   // Confirmed from Ryan8811
+﻿//CONFIRMED from dimitar.v
+namespace Problem3
+{   
     using System;
 
     public class StartUp
